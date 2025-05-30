@@ -1,4 +1,4 @@
-# 👋Bem vindo, Eu sou o José Maia!
+# 👋Bem vindo, ao meu repositório!
 
 🎯 **Objetivo**: Estágio em Análise de Dados / Business Intelligence  
 📍 Rio de Janeiro | 💻 Estudante de Análise e Desenvolvimento de Sistemas  
