@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋Eu sou o José Maia!
 
-<!--
-**Maiagit2024/maiagit2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Objetivo**: Estágio em Análise de Dados / Business Intelligence  
+📍 Rio de Janeiro | 💻 Estudante de Análise e Desenvolvimento de Sistemas  
+⚙️ Técnico em Automação Industrial | Curioso por dados e tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Habilidades Técnicas
+
+- 📊 **Power BI** – Dashboards interativos e relatórios
+- 🧮 **SQL** – Consultas e manipulação de dados (MySQL, PostgreSQL)
+- 🐍 **Python** – Básico, com foco em análise de dados
+- 📈 **Excel** – Fórmulas, PROCV, tabelas dinâmicas
+- 🔄 **ETL** – Coleta, tratamento e transformação de dados
+- 🛠️ **Automação e Redes** – Base técnica sólida (formação técnica)
+
+---
+
+## 📌 Projetos
+
+- **📈 Análise de Indicadores Fundamentalistas**  
+  Dashboard com dados da B3 (P/L, ROE, histórico de preços)
+
+- **🛒 Gestão de E-commerce**  
+  Análise de oportunidades de melhoria na comunicação e conversão
+
+- **🐶 Pet Shop Insights**  
+  Solução interativa para monitoramento de produtos, tendências e vendas
+
+[🔗 Acesse meu portfólio completo](https://maiagit2024.github.io/Portfolio_Jose/)
+
+---
+
+## 📚 Formação
+
+🎓 Universidade Estácio de Sá – Tecnólogo em Análise e Desenvolvimento de Sistemas (cursando)  
+🎓 Firjan Senai – Técnico em Automação Industrial
+
+---
+
+## 📫 Contato
+
+- 📧 Email: j.maiamendes28@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-maia-ju0ni8)  
+- 🌐 [Portfólio](https://maiagit2024.github.io/Portfolio_Jose/)
+
+---
+
+*Obrigado por visitar meu perfil! 🚀*
